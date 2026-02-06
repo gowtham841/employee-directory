@@ -41,7 +41,7 @@ PORT=3000
 Installation Method : 
 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/employee-directory.git
+git clone https://github.com/gowtham841/employee-directory.git
 cd employee-directory
 ```
 
